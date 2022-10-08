@@ -1,18 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="SPAIN",M+ LaLiga FHD op1
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga FHD op1
 http://948861936509165385.nicehos.xyz:80/mi08210/1452921364/165385
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="SPAIN",M+ LaLiga HD op1
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga HD op1
 http://948861936509165392.nicehos.xyz:80/mi08210/1452921364/165392
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="SPAIN",M+ LaLiga SD op1
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga SD op1
 http://948861936509165393.nicehos.xyz:80/mi08210/1452921364/165393
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="SPAIN",M+ LaLiga FHD (H 265) op1
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga FHD (H 265) op1
 http://948861936509262413.nicehos.xyz:80/mi08210/1452921364/262413
 
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga FHD op2
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="" group-title="Deportes",M+ LaLiga FHD op2
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26042?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga +" tvg-logo="" group-title="SPAIN",M+ LaLiga + op2
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga +" tvg-logo="" group-title="Deportes",M+ LaLiga + op2
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26247?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga" tvg-logo="" group-title="SPAIN",M+ LaLiga op2
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga" tvg-logo="" group-title="Deportes",M+ LaLiga op2
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/435?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+
