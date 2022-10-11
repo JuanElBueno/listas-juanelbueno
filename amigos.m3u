@@ -1,19 +1,37 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga FHD op1
-http://948861936509165385.nicehos.xyz:80/mi08210/1452921364/165385
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga HD op1
-http://948861936509165392.nicehos.xyz:80/mi08210/1452921364/165392
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga SD op1
-http://948861936509165393.nicehos.xyz:80/mi08210/1452921364/165393
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga FHD (H 265) op1
-http://948861936509262413.nicehos.xyz:80/mi08210/1452921364/262413
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",M+ LCAMPEONES SD
+http://948861936509165359.nicehos.xyz:80/mi08210/1452921364/165359
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",M+ LCAMPEONES FULL HD
+http://948861936509246282.nicehos.xyz:80/mi08210/1452921364/246282
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",M+ LCAMPEONES HD
+http://948861936509165358.nicehos.xyz:80/mi08210/1452921364/165358
 
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="" group-title="Deportes",M+ LaLiga FHD op2
-http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26042?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga +" tvg-logo="" group-title="Deportes",M+ LaLiga + op2
-http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26247?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga" tvg-logo="" group-title="Deportes",M+ LaLiga op2
-http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/435?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://62.43.34.93/logo/Ligadecampeones2.png" group-title="Deportes",M+ LCAMPEONES HD
+http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/445?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="http://62.43.34.93/logo/Ligadecampeones2.png" group-title="Deportes",M+ LCAMPEONES HD+
+http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26315?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="http://62.43.34.93/logo/Ligadecampeones2.png" group-title="Deportes",M+ LCAMPEONES FULL HD
+http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26078?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="http://62.43.34.93/logo/Ligadecampeones2.png" group-title="Deportes",M+ LCAMPEONES 1080P
+http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26316?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="http://62.43.34.93/logo/Ligadecampeones2.png" group-title="Deportes",M+ LCAMPEONES SD
+http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26317?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES" tvg-logo="http://62.43.34.93/logo/Ligadecampeones2.png" group-title="Deportes",M+ LCAMPEONES
+http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26318?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
 
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="http://62.43.34.93/logo/Ligadecampeones3.png" group-title="Deportes",M+ LCAMPEONES FULL HD
+http://nolasdavonline.com:80/Angel1/ZSJW1qGmd8/206476
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://62.43.34.93/logo/Ligadecampeones3.png" group-title="Deportes",M+ LCAMPEONES HD
+http://nolasdavonline.com:80/Angel1/ZSJW1qGmd8/206477
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | M. LIGA DE CAMPEONES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",DEPORTES | M. LIGA DE CAMPEONES
+http://nextv-chile.xyz:2080/123456/123456/71796
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="Deportes",DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2
+http://nextv-chile.xyz:2080/123456/123456/71803
+
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="" group-title="Deportes",ES:Movistar Liga de Campeones HD
+http://nextv-chile.xyz:2080/123456/123456/50367
