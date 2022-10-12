@@ -1,37 +1,39 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",M+ LCAMPEONES SD
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES SD
 http://948861936509165359.nicehos.xyz:80/mi08210/1452921364/165359
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",M+ LCAMPEONES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES FULL HD
 http://948861936509246282.nicehos.xyz:80/mi08210/1452921364/246282
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",M+ LCAMPEONES HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES HD
 http://948861936509165358.nicehos.xyz:80/mi08210/1452921364/165358
 
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo=" group-title="Deportes",M+ LCAMPEONES HD
+#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",Movistar Liga de Campeones HD
+http://nextv-chile.xyz:2080/123456/123456/50367
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="SPAIN",M+ LCAMPEONES 1080P
+http://53097e9a7752738a702ff24bc5718a4a.dramostimes.ablatv.me/live/c6.php?z=997&ui=53499&s=CT43RDNPU8&id=26316&h=227dcb93fc4f582ca7959b9abf4798920560b44a&n=1663094494&i=89.7.168.62
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES
+http://streamgo.vip:8008/200/200/128016
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES HD
+http://streamgo.vip:8008/200/200/128017
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES HD
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/445?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="" group-title="Deportes",M+ LCAMPEONES HD+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES HD+
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26315?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="" group-title="Deportes",M+ LCAMPEONES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES FULL HD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26078?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="" group-title="Deportes",M+ LCAMPEONES 1080P
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES 1080P
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26316?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="" group-title="Deportes",M+ LCAMPEONES SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES SD
 http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/26317?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES" tvg-logo="" group-title="Deportes",M+ LCAMPEONES
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES" tvg-logo="http://streamgo.vip:8008/images/3737368609961e5e54aef8c80f7585f5.jpg" group-title="Deportes",M+ LCAMPEONES
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26318?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
 
-
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="" group-title="Deportes",M+ LCAMPEONES FULL HD
-http://nolasdavonline.com:80/Angel1/ZSJW1qGmd8/206476
-
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="" group-title="Deportes",M+ LCAMPEONES HD
-http://nolasdavonline.com:80/Angel1/ZSJW1qGmd8/206477
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | M. LIGA DE CAMPEONES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Deportes",DEPORTES | M. LIGA DE CAMPEONES
-http://nextv-chile.xyz:2080/123456/123456/71796
-
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="Deportes",DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES HD 2
 http://nextv-chile.xyz:2080/123456/123456/71803
 
-#EXTINF:-1 tvg-id="" tvg-name="ES:Movistar Liga de Campeones HD" tvg-logo="" group-title="Deportes",ES:Movistar Liga de Campeones HD
-http://nextv-chile.xyz:2080/123456/123456/50367
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-liga-campeones.jpg.pagespeed.ic.i8TP_Bk5v9.jpg" group-title="Deportes",MOVISTAR LIGA DE CAMPEONES HD 2
+http://nextv-chile.xyz:2080/123456/123456/71803
