@@ -1,32 +1,36 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga FHD op1
-http://948861936509165385.nicehos.xyz:80/mi08210/1452921364/165385
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga HD op1
-http://948861936509165392.nicehos.xyz:80/mi08210/1452921364/165392
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga SD op1
-http://948861936509165393.nicehos.xyz:80/mi08210/1452921364/165393
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="Deportes",M+ LaLiga FHD (H 265) op1
-http://948861936509262413.nicehos.xyz:80/mi08210/1452921364/262413
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA" tvg-logo="http://streamgo.vip:8008/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="Deportes",MOVISTAR  LA LIGA
-http://streamgo.vip:8008/200/200/130821
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="http://streamgo.vip:8008/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="Deportes",MOVISTAR LA LIGA HD
-http://streamgo.vip:8008/200/200/130822
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA FHD" tvg-logo="http://streamgo.vip:8008/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="Deportes",MOVISTAR LA LIGA FHD
-http://streamgo.vip:8008/200/200/130823
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA FHD H.265" tvg-logo="http://streamgo.vip:8008/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="Deportes",MOVISTAR  LA LIGA FHD H.265
-http://streamgo.vip:8008/200/200/130824
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA (OP B)" tvg-logo="http://streamgo.vip:8008/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="Deportes",MOVISTAR LA LIGA (OP B)
-http://streamgo.vip:8008/200/200/130825
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 1
+http://streamgo.vip:8008/200/200/130862
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 1 HD
+http://streamgo.vip:8008/200/200/130863
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 1 FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 1 FHD.
+http://streamgo.vip:8008/200/200/130864
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 2
+http://streamgo.vip:8008/200/200/130865
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR HD 2
+http://streamgo.vip:8008/200/200/130866
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 FHD" tvg-logo="" group-title="Tv España ⭐",DAZN MOVISTAR 2 FHD
+http://streamgo.vip:8008/200/200/130867
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 2 FHD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 2 FHD.
+http://streamgo.vip:8008/200/200/130868
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/768px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 3 HD.
+http://streamgo.vip:8008/200/200/130869
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/768px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 3 FHD
+http://streamgo.vip:8008/200/200/130870
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/768px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 4 HD
+http://streamgo.vip:8008/200/200/130871
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/768px-DAZN_LogoInBox_black.svg.png" group-title="Tv España ⭐",DAZN MOVISTAR 4 FHD
+http://streamgo.vip:8008/200/200/130872
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="https://www.eluniverso.com/sites/default/files/styles/powgallery_1024/public/fotos/2019/08/laliga-h-1200x1200_2018.jpg?itok=iwAs-ZbB" group-title="DEPORTES",MOVISTAR LA LIGA HD
-http://nextv-chile.xyz:2080/123456/123456/71799
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="⚽ DAZN LALIGA ⚽ ",DAZN LA LIGA HD 1080P
+http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60340
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="⚽ DAZN LALIGA ⚽ ",DAZN LA LIGA HD 1080P
+http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60341
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="⚽ DAZN LALIGA ⚽ ",DAZN LA LIGA HD 1080P
+http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60342
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FHD" tvg-logo="" group-title="Deportes",M+ LaLiga FHD op2
-http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26042?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga +" tvg-logo="" group-title="Deportes",M+ LaLiga + op2
-http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/26247?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga" tvg-logo="" group-title="Deportes",M+ LaLiga op2
-http://24a008ec33e47f633aaa4f3a4ab02565.spa.iscaja.me:25461/mD1eShvZfM/026422843061/435?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="SPAIN",DAZN LaLigaHD
+http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/27160?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
