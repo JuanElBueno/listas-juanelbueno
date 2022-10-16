@@ -1,19 +1,25 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P
+#EXTINF:-1 group-title="LA LIGA",DAZN LaLiga HD OP1
+http://6amigo.top:80/live/zqq039/nyt5hn6/1775.ts
+#EXTINF:-1 group-title="LA LIGA",DAZN LA LIGA FHD OP1
+http://6amigo.top:80/live/zqq039/nyt5hn6/1888.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P OP2
 http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60340
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P
-http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60341
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P
+
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P OP2
 http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60342
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="Deportes",DAZN LaLigaHD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="Deportes",DAZN LaLigaHD OP3
 http://24a008ec33e47f633aaa4f3a4ab02565.lig.iscaja.me:25461/mD1eShvZfM/026422843061/27160?h=334b8605f101383795376c7202d63031fca4a4f5&z=&i=64350
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P OP4
 http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60340
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P OP4
 http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60341
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="Deportes",DAZN LA LIGA HD 1080P OP4
 http://fulldat.gdatfull.xyz:8080/higiniovecino/4mjtDjp6Xh8L/60342
 
+#EXTINF:-1,DAZN LALIGA HD OP5
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/139267
