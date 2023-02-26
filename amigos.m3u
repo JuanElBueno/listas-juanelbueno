@@ -1,45 +1,45 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 SD
 http://nextv-chile.xyz:2080/123456/123456/96835
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 SD
 http://nextv-chile.xyz:2080/123456/123456/96836
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 HD
 http://nextv-chile.xyz:2080/123456/123456/96837
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 HD
 http://nextv-chile.xyz:2080/123456/123456/96838
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 FHD EXTRA
 http://nextv-chile.xyz:2080/123456/123456/96839
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 FHD EXTRA
 http://nextv-chile.xyz:2080/123456/123456/96840
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 FHD
 http://nextv-chile.xyz:2080/123456/123456/96841
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 1 FHD
 http://nextv-chile.xyz:2080/123456/123456/96842
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 SD
 http://nextv-chile.xyz:2080/123456/123456/96843
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 SD
 http://nextv-chile.xyz:2080/123456/123456/96844
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 HD
 http://nextv-chile.xyz:2080/123456/123456/96845
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 HD
 http://nextv-chile.xyz:2080/123456/123456/96846
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 FHD EXTRA
 http://nextv-chile.xyz:2080/123456/123456/96847
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD EXTRA" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 FHD EXTRA
 http://nextv-chile.xyz:2080/123456/123456/96848
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 FHD
 http://nextv-chile.xyz:2080/123456/123456/96849
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" group-title=" **LA LIGA ESPAÑA**⚽",DAZN LALIGA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="http://tutv.online:2080/images/17a32040ded90ee20e463b23f64c17eb.png" ,DAZN LALIGA 2 FHD
 http://nextv-chile.xyz:2080/123456/123456/96850
 
 #EXTINF:-1,ES089:M+ Dazn LaLiga 1
 http://wanicelife.com:8880/29us01313n04/rfwe4rfwe/29303
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="SPAIN SPORT",ES: DAZN LALIGA 1
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" ,ES: DAZN LALIGA 1
 http://supercamp.cfd:8080/live/711668107874373044/9161668107874373/25125.t
 
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Dazn La Liga SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" group-title="♛ M+ La Liga ♛",Dazn La Liga SD (ES)
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Dazn La Liga SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" ,Dazn La Liga SD (ES)
 http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13421
-#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="Dazn La Liga FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" group-title="♛ M+ La Liga ♛",Dazn La Liga FHD (ES)
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="Dazn La Liga FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" ,Dazn La Liga FHD (ES)
 http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13422
