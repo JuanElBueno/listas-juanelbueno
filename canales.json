@@ -1,39 +1,6 @@
 {
     "titulo":  "Seleccione el canal que desea ver:",
     "categorias":  [
-                     {
-                           "nombre":  "Cartagena + Europa",
-                           "icono":  "https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png",
-                           "canales":  [
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f"
-                                           },
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://854ff9c607101791346111cd2366a392c3b8c351"
-                                           },
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://b40212c43e96e97542ea00f2129212a054853a57"
-                                           },
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://177796041773be99b489dd3ce86144f243e7355f"
-                                           },
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc"
-                                           },
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476"
-                                           },
-                                           {
-                                               "nombre":  "Primera Federación",
-                                               "enlace":  "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9"
-                                           }
-                                        ]},
                        {
                            "nombre":  "Movistar La Liga",
                            "icono":  "https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png",
